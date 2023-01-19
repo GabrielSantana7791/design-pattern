@@ -1,10 +1,10 @@
-package builder.builder;
+package creational.builder.builder;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.util.Date;
 
-import builder.classes.Server;
+import creational.builder.classes.Server;
 
 public class ServerBuilder {
 	private Server server;

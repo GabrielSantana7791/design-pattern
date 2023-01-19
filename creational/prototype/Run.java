@@ -1,7 +1,7 @@
-package Prototype;
+package creational.prototype;
 
-import Prototype.classes.Fal;
-import Prototype.classes.Gun;
+import creational.prototype.classes.Fal;
+import creational.prototype.classes.Gun;
 
 public class Run {
 	public static void main(String[] args) {

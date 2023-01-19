@@ -1,7 +1,7 @@
-package builder.director;
+package creational.builder.director;
 
-import builder.builder.ServerBuilder;
-import builder.classes.Server;
+import creational.builder.builder.ServerBuilder;
+import creational.builder.classes.Server;
 
 public class ServerDefaultDirector {
 	public static Server getServer() {

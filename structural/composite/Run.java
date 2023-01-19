@@ -1,7 +1,7 @@
-package composite;
+package structural.composite;
 
-import composite.classes.Group;
-import composite.classes.Unit;
+import structural.composite.classes.Group;
+import structural.composite.classes.Unit;
 
 public class Run {
 

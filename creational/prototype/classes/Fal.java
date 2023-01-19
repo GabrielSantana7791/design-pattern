@@ -1,4 +1,4 @@
-package Prototype.classes;
+package creational.prototype.classes;
 
 public class Fal extends Gun{	
 	public Fal(String nome) {

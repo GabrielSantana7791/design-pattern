@@ -1,4 +1,4 @@
-package Prototype.classes;
+package creational.prototype.classes;
 
 public abstract class Gun implements Cloneable{
 	private String name;

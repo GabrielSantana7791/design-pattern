@@ -1,7 +1,7 @@
-package builder;
+package creational.builder;
 
-import builder.classes.Server;
-import builder.director.ServerDefaultDirector;
+import creational.builder.classes.Server;
+import creational.builder.director.ServerDefaultDirector;
 
 public class Run {
 	public static void main(String[] args) {
